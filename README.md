@@ -2,6 +2,8 @@
 
 # MOrgAna
 
+> **Fork extension:** this fork adds a few-shot segmentation study asking *what is the cheapest way to get accurate organoid shape measurements from few or no annotations?* See [`fewshot/README.md`](fewshot/README.md).
+
 Welcome to MOrgAna (Machine-learning based Organoids Analysis) to segment and analyse 2D multi-channel images of organoids, as described in the paper: 
 
 *Nicola Gritti, Jia Le Lim, Kerim Anlaş, David Oriola, Mallica Pandya, Germaine Aalderink, Guillermo Martinez Ara, Vikas Trivedi.*
